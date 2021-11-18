@@ -1,0 +1,26 @@
+What needs to be done. 
+
+1. Write a function library that does the math, and returns if bets are valid or not.
+    - Test said library  //DONE 
+
+2. Set up SQL database. 
+    - Try think of better design //DONE
+    - Fix primary key (autonumber) //DONE
+    - input data from text files //DONE
+    - https://www.youtube.com/watch?v=VKg1Dnz7GN0 add gui for SQLite 
+
+3. Cycle through the SQL database and find the best odds for a particular match.
+    - Write a function to determine a specific match
+        - Use date and teams involved
+    - Write a function to find the best odds for each outcome in that match.
+
+
+4. Take these new sexy odds and see if they are arbs. 
+
+5. Display outputs in a TKinter gui
+
+6. Data input system (gonna be fokken hard) into text files
+
+7. Set up github 
+
+
